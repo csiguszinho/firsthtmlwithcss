@@ -6,7 +6,7 @@
 
 <head>
     <title> Első gyakorló XHTML lapom.</title>
-    <link href="tesztstlye.css" rel="stylesheet" type="text/ccs" />
+    <link href="3fejezetgyakorlata.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
     <p> Hello világ. </p>
